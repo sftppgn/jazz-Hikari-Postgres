@@ -1,0 +1,1 @@
+This an implementation of the database portion of the jazz project using Hikari and Postgres.
