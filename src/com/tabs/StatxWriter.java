@@ -50,10 +50,10 @@ public class StatxWriter {
                 }
                 Matcher noteMatcher = notePattern.matcher(s);
                 String[] test123;
-                System.out.println(s.split(regexValDelim)).length();
+                //System.out.println(s.split(regexValDelim).length);
                 if (noteMatcher.matches()){
-                    for (int i=0; length(s.split(regexValDelim) < i; i++){
-                       System.out.println(x);
+                    System.out.println("s "+s);
+                    for (Integer i=0; s.split(regexValDelim).length < i; i++){
                     }
                     //System.out.println(s);
                     //this.note = (s.split(regexValDelim)[8]);
